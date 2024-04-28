@@ -10,7 +10,7 @@ Python script that generates a list of your missing minion's tiers from the chea
 Download the `main.py` and run it having [Python](https://www.python.org/downloads/) installed or copy the code and run it on any online Python compiler like [this](https://www.programiz.com/python-programming/online-compiler/) one.
 After you run it you will need to set the prompts:
 
-![prompts](https://i.imgur.com/79nKM0o.png)
+![prompts](https://imgur.com/rqSkTyZ)
 
 At the end the scrips gives you a list from the cheapest to the most expensive minion you are missing.
 
