@@ -12,7 +12,7 @@ After you run it you will need to set the prompts:
 
 ![prompts](https://i.imgur.com/IsA2PoE.png)
 
-At the end the scrips gives you a list from the cheapest to the most expensive minion you are missing.
+At the end the scrips gives you a list from the cheapest to the most expensive minion you are missing. The prices are calculated with insta buy prices so prices may vary in-game (and also that's why higher tiers may be cheaper than lower tiers).
 
 ## FAQ
 
